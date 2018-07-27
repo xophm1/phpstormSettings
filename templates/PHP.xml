@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="data" value="/**&#10; * @return array&#10; */&#10;public function providerFor$END$()&#10;{&#10;    return array(&#10;        array()&#10;    );        &#10;}" description="Data provider" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+</templateSet>

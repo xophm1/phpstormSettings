@@ -1,0 +1,37 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2018-04-10T11:35:43</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.1.0.0</property>
+    <property name="modified">2018-04-19T14:58:02</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </console-font>
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
+  <attributes>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0703" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0709" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cc0003" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
