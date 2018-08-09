@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/AppBundle/Test/Model/MacroOrder/VideoOrderTest.php [move]'" />
-    <option name="defaultScopeName" value="File '.../src/AppBundle/Test/Model/MacroOrder/VideoOrderTest.php [move]'" />
-    <option name="SEARCH_SCOPE" value="File '.../src/AppBundle/Test/Model/MacroOrder/VideoOrderTest.php [move]'" />
+    <option name="customScope" value="File '.../src/AppBundle/Test/Model/Timeslot/TimeslotTest.php [move]'" />
+    <option name="defaultScopeName" value="File '.../src/AppBundle/Test/Model/Timeslot/TimeslotTest.php [move]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/AppBundle/Test/Model/Timeslot/TimeslotTest.php [move]'" />
   </component>
 </application>
