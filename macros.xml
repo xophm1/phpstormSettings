@@ -42,46 +42,9 @@
       <shortuct text="ENTER" />
     </macro>
     <macro name="timeMaster">
-      <typing text-keycode="44:0;32:0;84:1;73:0;77:0;69:0;77:1">,&amp;#x20;TimeM</typing>
-      <action id="EditorChooseLookupItemReplace" />
-      <typing text-keycode="32:0;515:0;84:0;73:0;77:0;69:0">&amp;#x20;$time</typing>
-      <action id="EditorChooseLookupItem" />
-      <action id="EditorLeft" />
+      <typing text-keycode="44:0;32:0;84:1;73:0;77:0;69:0;77:1;65:0;83:0;84:0;69:0;82:0;32:0;515:0;84:0;73:0;77:0;69:0;77:1;65:0;83:0;84:0;69:0;82:0">,&amp;#x20;TimeMaster&amp;#x20;$timeMaster</typing>
       <action id="ShowIntentionActions" />
       <shortuct text="DOWN" />
-      <shortuct text="ESCAPE" />
-      <action id="GotoAction" />
-      <typing text-keycode="85:0;80:0;65:0;68:0;65:0;69:0">upadae</typing>
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="DELETE" />
-      <action id="EditorLineEnd" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="DELETE" />
-      <shortuct text="DELETE" />
-      <shortuct text="DELETE" />
-      <shortuct text="DELETE" />
-      <shortuct text="DELETE" />
-      <typing text-keycode="80:0;68:0;65:0;84:0">pdat</typing>
-      <shortuct text="ESCAPE" />
-      <action id="GotoAction" />
-      <action id="EditorLineEnd" />
-      <typing text-keycode="69:0;32:0;80:1;72:1;80:1;68:1;79:0;67:0;32:0;67:1;79:1;77:0;77:0;69:0;78:0;84:0">e&amp;#x20;PHPDoc&amp;#x20;COmment</typing>
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="LEFT" />
-      <shortuct text="DELETE" />
-      <typing text-keycode="79:0">o</typing>
-      <action id="EditorLineEnd" />
       <shortuct text="ENTER" />
     </macro>
   </component>
