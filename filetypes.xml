@@ -14,6 +14,7 @@
       <mapping pattern=".env-int" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa_dedale_preadmapp601" type="PLAIN_TEXT" />
       <mapping ext="success" type="PLAIN_TEXT" />
+      <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="php-job-xdebug" type="PLAIN_TEXT" />
       <mapping ext="unknown" type="PLAIN_TEXT" />
       <mapping ext="message" type="PLAIN_TEXT" />
