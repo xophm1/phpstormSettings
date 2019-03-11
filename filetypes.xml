@@ -6,6 +6,7 @@
       <mapping ext="phpfpm-backend-alpine" type="Dockerfile" />
       <mapping pattern=".rsync-filter-deploy-vendors" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".env-required-secret-variables" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-requirements" type="PLAIN_TEXT" />
       <mapping pattern="ssh_passphrase_github_com" type="PLAIN_TEXT" />
