@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Upload to preprod" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="scp" />
+      <option name="PARAMETERS" value="$FileRelativePath$ move@preadmapp601-adm.dedale.tf1.fr:/var/local/webroot/move/current/$FileRelativePath$" />
+      <option name="WORKING_DIRECTORY" value="/var/www/move" />
+    </exec>
+  </tool>
+</toolSet>
