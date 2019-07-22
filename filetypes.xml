@@ -4,9 +4,10 @@
       <mapping pattern="Dockerfile.*" type="Dockerfile" />
       <mapping ext="xdebug" type="Dockerfile" />
       <mapping ext="phpfpm-backend-alpine" type="Dockerfile" />
+      <mapping pattern=".gtikeep" type="PLAIN_TEXT" />
       <mapping pattern=".rsync-filter-deploy-vendors" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
-      <mapping pattern=".env-required-secret-variables" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa_dedale_preadmapp601" type="PLAIN_TEXT" />
       <mapping pattern=".alias" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env-requirements" type="PLAIN_TEXT" />
@@ -16,7 +17,7 @@
       <mapping pattern=".rsync-filter-deploy-vendor" type="PLAIN_TEXT" />
       <mapping pattern=".env-int" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="id_rsa_dedale_preadmapp601" type="PLAIN_TEXT" />
+      <mapping pattern=".env-required-secret-variables" type="PLAIN_TEXT" />
       <mapping ext="success" type="PLAIN_TEXT" />
       <mapping ext="mocksess" type="PLAIN_TEXT" />
       <mapping ext="php-job-xdebug" type="PLAIN_TEXT" />
